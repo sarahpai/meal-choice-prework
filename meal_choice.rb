@@ -1,4 +1,4 @@
-def meal_choice()
+def choie (meal_choice)
   puts "#{meal_choice}"
 end
 
